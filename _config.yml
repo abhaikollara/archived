@@ -18,7 +18,7 @@ email: a.kollara@saama.com
 description: > # this means to ignore newlines until "baseurl:"
   Deep learning | NLP | Deep RL | Everything else
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://abhaikollara.xyz/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: meAbhai
 github_username:  abhaikollara
 
