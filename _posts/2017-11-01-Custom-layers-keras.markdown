@@ -3,6 +3,7 @@ layout: post
 title:  "Building custom layers in Keras"
 date:   2017-11-01 01:20:33 +0530
 categories: Tutorials
+description : Tutorial on creating custom layers in Keras
 ---
 _Originally published at [Saama website](https://www.saama.com/blog/deep-learning-diaries-building-custom-layers-in-keras/)_
 ## About Keras
